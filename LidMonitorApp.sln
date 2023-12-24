@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LidMonitorApp", "LidMonitorApp\LidMonitorApp.csproj", "{9704AFAE-F66B-4395-BD13-581F49F55909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9704AFAE-F66B-4395-BD13-581F49F55909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9704AFAE-F66B-4395-BD13-581F49F55909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9704AFAE-F66B-4395-BD13-581F49F55909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9704AFAE-F66B-4395-BD13-581F49F55909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
