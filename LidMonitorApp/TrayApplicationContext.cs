@@ -23,6 +23,7 @@ namespace LidMonitorApp
 
             SystemEventsOnDisplaySettingsChanged(default, default);
             SystemEvents.DisplaySettingsChanged += SystemEventsOnDisplaySettingsChanged;
+            SystemEvents.SessionSwitch += SystemEventsOnDisplaySettingsChanged;
         }
 
         private void SystemEventsOnDisplaySettingsChanged(object sender, EventArgs e)
