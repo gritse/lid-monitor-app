@@ -31,6 +31,9 @@ namespace LidMonitorApp
             PowerCfg.SetLidAction(Screen.AllScreens.Length >= 2
                 ? PowerCfg.LidAction.Nothing
                 : PowerCfg.LidAction.Sleep);
+
+            // if (Screen.AllScreens.Length >= 2) 
+            DisplaySwitch.Switch(DisplaySwitch.DisplayMode.Extend);
         }
 
         private void Exit(object sender, EventArgs e)
