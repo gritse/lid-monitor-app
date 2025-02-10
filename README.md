@@ -16,7 +16,7 @@ LidMonitorApp is a Windows tray application that automatically manages your lapt
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/gritse/LidMonitorApp/releases) page.
+1. Download the latest release from the [Releases](https://github.com/gritse/lid-monitor-app/releases) page.
 2. Extract the ZIP file to your desired location.
 3. Run the `LidMonitorApp.exe` file to start the application.
 
